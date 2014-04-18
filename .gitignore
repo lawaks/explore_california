@@ -1,5 +1,6 @@
 #This is a comment
 tempFile.txt
+tempfile2.txt
 .DS_STORE
 *.zip
 *.gzip
